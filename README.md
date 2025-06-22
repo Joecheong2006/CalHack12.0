@@ -1,4 +1,3 @@
-```markdown
 # CalHack12.0: Smart README Generator
 
 ## Project Description
@@ -97,4 +96,3 @@ Please ensure your code adheres to the project's coding style and includes appro
 
 This project has no explicit license declared. All rights are reserved unless otherwise specified.
 (Consider adding an open-source license like MIT or Apache 2.0 for better collaboration.)
-```
