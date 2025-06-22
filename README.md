@@ -1,5 +1,3 @@
-# CalHack12.0: Smart README Generator
-
 # AI Tutorial Generator
 
 An intelligent learning tool that generates personalized, easy-to-understand tutorials on any topic using AI. Simply type what you want to learn, and get an instant, beautifully formatted HTML tutorial.
