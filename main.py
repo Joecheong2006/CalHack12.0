@@ -526,8 +526,6 @@ def main():
         print("\n" + "="*50)
         print(f"Generated README ({args.format} format):")
         print("="*50)
-        with open("README.md", "w") as f:
-          f.write(readme_content)
         
     except Exception as e:
         print(f"Error: {e}", file=sys.stderr)
